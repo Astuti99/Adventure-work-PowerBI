@@ -1,12 +1,9 @@
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard1.png)
+![Dashboard 1](./dashboard1.png)
 
-![Dashboard](dashboard2.png)
+![Dashboard 2](./dashboard2.png)
 
-![Dashboard](dashboard3.png)
+![Dashboard 3](./dashboard3.png)
 
-![Dashboard](dashboard4.png)
-
-
-This project analyzes sales, product, and customer data using Power BI dashboards.
+![Dashboard 4](./dashboard4.png)
