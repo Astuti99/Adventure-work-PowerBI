@@ -1,4 +1,4 @@
-## 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Dashboard 1](dashboard1.png)
 
