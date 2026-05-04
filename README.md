@@ -1,9 +1,9 @@
 ## 📊 Dashboard Preview
 
-![Dashboard 1](dashboard1.png)
+<img src="dashboard1.png" width="700"/>
 
-![Dashboard 2](dashboard2.png)
+<img src="dashboard2.png" width="700"/>
 
-![Dashboard 3](dashboard3.png)
+<img src="dashboard3.png" width="700"/>
 
-![Dashboard 4](dashboard4.png)
+<img src="dashboard4.png" width="700"/>
