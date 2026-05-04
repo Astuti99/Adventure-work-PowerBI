@@ -7,4 +7,6 @@
 ![Dashboard](dashboard3.png)
 
 ![Dashboard](dashboard4.png)
+
+
 This project analyzes sales, product, and customer data using Power BI dashboards.
