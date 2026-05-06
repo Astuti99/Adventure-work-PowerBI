@@ -55,7 +55,7 @@ The objective of this project is to analyze sales, customer behavior, product pe
 ---
 
 ## 📊 Dashboard 3 - Customer Insights
-![Dashboard3](dashboard3.png)
+![Dashboard3](dashboard4.png)
 
 ### Insights
 - Top customers were identified using revenue analysis.
