@@ -50,7 +50,7 @@ The dashboard provides business insights through dynamic visualizations and KPI 
 # 📷 Dashboard Preview
 
 ## Category Analysis Dashboard
-![Category Analysis](dashboard2.png)
+![Category Analysis](dashboard1.png)
 
 ---
 
