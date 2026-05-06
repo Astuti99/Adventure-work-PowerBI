@@ -15,6 +15,4 @@ This project analyzes sales, product performance, and customer insights using Po
 
 <img src="dashboard2.png" width="700"/>
 
-<img src="dashboard3.png" width="700"/>
-
 <img src="dashboard4.png" width="700"/>
