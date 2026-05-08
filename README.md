@@ -15,7 +15,7 @@ The dashboard provides business insights through dynamic visualizations and KPI 
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Bikes category generated the highest revenue contribution.
 - Weekend sales were higher compared to weekday sales.
 - Mountain Bikes were among the most profitable products.
@@ -33,9 +33,9 @@ The project demonstrates practical business intelligence and data analytics skil
 ##  Author
 **Astuti**
 
-📧 astutijha.12345@gmail.com
+ astutijha.12345@gmail.com
 
-🔗 GitHub: https://github.com/Astuti99
+ GitHub: https://github.com/Astuti99
 
-🔗 LinkedIn: https://www.linkedin.com/in/astuti-astuti-3a014a403/
+ LinkedIn: https://www.linkedin.com/in/astuti-astuti-3a014a403/
 
